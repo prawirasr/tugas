@@ -1,0 +1,24 @@
+<!doctype html>
+<html>
+    <head>
+      <title>FORM</title>
+    </head>
+    <body>
+      <form action="">
+      Nama: <input type="text" name="">,<br>
+      Password: <input type="password" name=""><br>
+      Jenis kelamin: <input type="radio" name="">Laki-laki <input type="radio" 
+      name="">Perempuan<br>
+      Hobi: <input type="checkbox" name="">Membaca Buku <input type="checkbox" 
+      name="">Menulis <input type="checkbox" name="">Memancing<br>
+      Asal Kota: <select name="">
+        <option value="">Jakarta</option>
+        <option value="">Bandung</option>
+        <option value="">Surabaya</option>
+      </select><br>
+      Komentar: <textarea name="" cols="30" rows="10">Silahkan komentar
+      </textarea><br>
+      <input type="submit" value="Mulai proses!">
+    </form>
+</body>
+</html>
